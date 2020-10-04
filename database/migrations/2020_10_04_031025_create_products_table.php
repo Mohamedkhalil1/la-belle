@@ -19,6 +19,7 @@ class CreateProductsTable extends Migration
             $table->decimal('price',14,2);
             $table->text('short_description');
             $table->text('description');
+            $table->string('photo');
             $table->integer('category_id')->unsigned()->nullable();
             $table->timestamps();
         });

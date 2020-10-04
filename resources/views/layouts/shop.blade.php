@@ -12,7 +12,7 @@
     <title>@yield('title')</title>
     
     <!-- Favicon  -->
-    <link rel="icon" href="{{asset('assets/img/core-img/favicon.ico')}}">
+    <link rel="icon" href="{{asset('assets/img/core-img/logo2.ico')}}">
     
    
     <!-- BEGIN VENDOR CSS-->

@@ -32,8 +32,8 @@
                     <div class="col-12 d-md-flex justify-content-between">
                         <!-- Header Social Area -->
                         <div class="header-social-area">
-                            <a href="#"><span class="karl-level">Share</span><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                            <a href="#"><i class="fa fa-link" aria-hidden="true"></i></a>
+                            <a href="https://www.facebook.com/groups/1168251456904523/" target="_blank"><span class="karl-level">Share</span><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                            <a href="https://www.facebook.com/laybellem" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a>
                       
                         </div>
                         <!-- Menu Area -->
@@ -53,7 +53,7 @@
                         </div>
                         <!-- Help Line -->
                         <div class="help-line">
-                            <a href="tel:+346573556778"><i class="ti-headphone-alt"></i> +34 657 3556 778</a>
+                            <a href="tel:+01060068479"><i class="ti-headphone-alt"></i> +02 010 6006 8479</a>
                         </div>
                     </div>
                 </div>
@@ -61,3 +61,25 @@
         </div>
     </header>
     <!-- ****** Header Area End ****** -->
+
+
+    <!-- ****** Top Discount Area Start ****** -->
+    <section class="top-discount-area d-md-flex align-items-center">
+        <!-- Single Discount Area -->
+        <div class="single-discount-area">
+            <h5>Free Shipping</h5>
+            <h6><a href="{{route('shop.show')}}">BUY NOW</a></h6>
+        </div>
+        <!-- Single Discount Area -->
+        <div class="single-discount-area">
+            <h5>New Collection and Trendy Shoes</h5>
+            <h6><a href="{{route('shop.show')}}">BUY NOW</a></h6>
+        </div>
+        <!-- Single Discount Area -->
+        <div class="single-discount-area">
+            <h5>buy two get 50% </h5>
+            <h6><a href="{{route('shop.show')}}">BUY NOW</a></h6>
+        </div>
+    </section>
+    <!-- ****** Top Discount Area End ****** -->
+    

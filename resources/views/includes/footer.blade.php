@@ -9,8 +9,8 @@
                     <div class="col-12">
                         <div class="footer_social_area text-center">
         
-                            <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                            <a href="#"><i class="fa fa-link" aria-hidden="true"></i></a>
+                            <a href="https://www.facebook.com/groups/1168251456904523/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                            <a href="https://www.facebook.com/laybellem" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a>
                    
              
                         </div>
